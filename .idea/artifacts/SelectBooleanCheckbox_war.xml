@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="SelectBooleanCheckbox:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="SelectBooleanCheckbox-1.0.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="SelectBooleanCheckbox:war exploded" />
+    </root>
+  </artifact>
+</component>
